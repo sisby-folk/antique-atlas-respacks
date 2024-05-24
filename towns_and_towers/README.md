@@ -9,5 +9,4 @@ Currently it adds markers for all village types.
 Tiles for T&T structures are in the 'kaisyn' directory, matching the layout of the data pack.
 
 TODO:
- * Add pillager structures
  * Add ships (ocean villages and outposts)

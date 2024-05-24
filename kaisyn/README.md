@@ -9,6 +9,5 @@ Currently it adds tiles for most land village types and the "Desert temple mimic
 Markers for T&T structures are in the 'towns_and_towers' directory, matching the layout of the data pack.
 
 TODO:
- * Add pillager land structures
  * Add ships (ocean villages and outposts)
  * Customize tiles
