@@ -1,4 +1,5 @@
 {
   "priority": 1,
-  "textures": "antique_atlas:structure/village/plains/temple"
+  "textures": "antique_atlas:structure/village/plains/temple",
+  "priority": 800
 }

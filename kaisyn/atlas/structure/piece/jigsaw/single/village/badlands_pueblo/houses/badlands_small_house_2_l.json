@@ -1,2 +1,4 @@
 {
-  "textures": "antique_atlas:structure/village/desert/small_house" }
+  "textures": "antique_atlas:structure/village/desert/small_house",
+  "priority": 800
+}
