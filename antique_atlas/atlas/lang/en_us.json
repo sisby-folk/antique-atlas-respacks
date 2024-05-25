@@ -14,5 +14,12 @@
     "structure.start.towns_and_towers.village_sparse_jungle": "Sparse Jungle Village",
     "structure.start.towns_and_towers.village_sunflower_plains": "Sunflower Plains Farm",
     "structure.start.towns_and_towers.village_swamp": "Swamp Village",
-    "structure.start.towns_and_towers.village_wooded_badlands": "Wooded Badlands Village"
+    "structure.start.towns_and_towers.village_wooded_badlands": "Wooded Badlands Village",
+    "structure.start.totw_reworked.derelict": "Derelict Tower",
+    "structure.start.totw_reworked.derelict_grass": "Derelict Tower",
+    "structure.start.totw_reworked.ice": "Ice Tower",
+    "structure.start.totw_reworked.jungle": "Jungle Tower",
+    "structure.start.totw_reworked.ocean": "Ocean Tower",
+    "structure.start.totw_reworked.ocean_warm": "Ocean Tower",
+    "structure.start.totw_reworked.regular": "Tower"
 }
