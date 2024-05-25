@@ -1,13 +1,11 @@
-# Towns and Towers Structure Tiles
+# Explorify Structure Tiles
 
-This adds structure tiles for the Towns and Towers mod/datapack, version 1.12.1:
+This adds structure tiles for the Explorify mod/datapack, version 1.4.0
 
-* https://modrinth.com/mod/towns-and-towers
+* https://modrinth.com/datapack/explorify
 
-Currently it adds tiles for most land village types and the "Desert temple mimic" structure. Very small "villages" like the grove outpost and the snowy slopes inn don't have any streets, so they only get markers.
-
-Markers for T&T structures are in the 'towns_and_towers' directory, matching the layout of the data pack.
+Currently it adds tiles for all overworld structures.
 
 TODO:
- * Add ships (ocean villages and outposts)
- * Customize tiles
+ * Add Black Spiral
+ * Add Crashed End Ship
