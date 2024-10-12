@@ -21,5 +21,18 @@
     "structure.start.totw_reworked.jungle": "Jungle Tower",
     "structure.start.totw_reworked.ocean": "Ocean Tower",
     "structure.start.totw_reworked.ocean_warm": "Ocean Tower",
-    "structure.start.totw_reworked.regular": "Tower"
+    "structure.start.totw_reworked.regular": "Tower",
+    "structure.start.nova_structures.tavern_acacia": "Tavern",
+    "structure.start.nova_structures.tavern_birch": "Tavern",
+    "structure.start.nova_structures.tavern_cherry": "Tavern",
+    "structure.start.nova_structures.tavern_dark_oak": "Tavern",
+    "structure.start.nova_structures.tavern_desert": "Tavern",
+    "structure.start.nova_structures.tavern_jungle": "Tavern",
+    "structure.start.nova_structures.tavern_mangrove": "Tavern",
+    "structure.start.nova_structures.tavern_oak": "Tavern",
+    "structure.start.nova_structures.tavern_snowy": "Tavern",
+    "structure.start.nova_structures.tavern_spruce": "Tavern",
+    "structure.start.nova_structures.tavern_swamp": "Tavern",
+    "structure.start.nova_structures.village_jungle": "Jungle Village",
+    "structure.start.nova_structures.village_swamp": "Swamp Village"
 }
