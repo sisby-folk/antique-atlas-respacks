@@ -34,5 +34,8 @@
     "structure.start.nova_structures.tavern_spruce": "Tavern",
     "structure.start.nova_structures.tavern_swamp": "Tavern",
     "structure.start.nova_structures.village_jungle": "Jungle Village",
-    "structure.start.nova_structures.village_swamp": "Swamp Village"
+    "structure.start.nova_structures.village_swamp": "Swamp Village",
+    "structure.start.betteroceanmonuments.ocean_monument": "Ocean Monument",
+    "structure.start.revamped_shipwrecks.shipwreck": "Shipwreck",
+    "structure.start.revamped_shipwrecks.shipwreck_beached": "Shipwreck"
 }
